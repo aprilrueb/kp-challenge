@@ -1,0 +1,46 @@
+.App {
+  font-weight: 100;
+}
+
+.App-borough {
+  font-size: 1.5em;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.App-boroughs {
+  font-size: 2em;
+  text-align: center;
+}
+
+.App-header {
+  height: 100px;
+  padding: 10px;
+  color: white;
+}
+
+.App-intro {
+  background-color: #19c6b7;
+  color: white;
+  font-size: large;
+  text-align: center;
+}
+
+.App-macro {
+  padding-top: 15px;
+}
+
+.App-title {
+  font-size: 4em;
+  font-weight: 200;
+  color: #00b4f0;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus {
+  background-color: #00b4f0;
+}
